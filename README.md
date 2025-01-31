@@ -40,4 +40,4 @@ Magic View 확장 프로그램을 찾아 삭제 버튼 클릭
 
 📧 문의 이메일: [ijunu3343@gmail.com]
 
-Magic View 팀은 사용자의 개인정보 보호를 최우선으로 합니다.
+Magic View 개발자는 사용자의 개인정보 보호를 최우선으로 합니다.
